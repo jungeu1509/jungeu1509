@@ -1,12 +1,25 @@
 <div align=center>
-
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeu1509&exclude_repo=linuxsetting,jungeu1509.github.io&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![C_Language](https://img.shields.io/badge/-C-yellow)](https://img.shields.io/badge/<LABEL>-C-yellow)
-[![C++_Language](https://img.shields.io/badge/-C++-green)](https://img.shields.io/badge/<LABEL>-C++-green)
-[![Python_Language](https://img.shields.io/badge/-Python-blue)](https://img.shields.io/badge/<LABEL>-Python-blue)
+</div>
 
+### 🌱 Languages & Skills
+
+<div align=center>
+  
+![C_Language](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
+![C++_Language](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
+![Python_Language](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=white)
+![Linux_Language](https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=Linux&logoColor=white)
+
+</div>
+
+### 📫 Contact
+
+<div align=center>
+  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jungeu1509.github.io/)](https://jungeu1509.github.io/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ)](https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungeu1509@gmail.com)](mailto:jungeu1509@gmail.com)
