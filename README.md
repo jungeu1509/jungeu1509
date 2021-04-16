@@ -3,9 +3,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeu1509&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="32" width="32" src="https://simpleicons.org/icons/c.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+[![C_Language](https://img.shields.io/badge/-C-yellow)](https://img.shields.io/badge/<LABEL>-C-yellow)
+[![C++_Language](https://img.shields.io/badge/-C++-green)](https://img.shields.io/badge/<LABEL>-C++-green)
+[![Python_Language](https://img.shields.io/badge/-Python-blue)](https://img.shields.io/badge/<LABEL>-Python-blue)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jungeu1509.github.io/)](https://jungeu1509.github.io/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ)](https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ) 
