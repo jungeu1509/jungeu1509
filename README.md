@@ -9,10 +9,10 @@
 
 <div align=center>
   
-![C_Language](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
-![C++_Language](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
+![C_Language](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black)
+![C++_Language](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
 ![Python_Language](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=white)
-![Linux_Language](https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=Linux&logoColor=white)
+![Linux_Language](https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=Linux&logoColor=black)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align=center>
 
-[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About.me&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
+[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=about-dot-me&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jungeu1509.github.io/)](https://jungeu1509.github.io/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ)](https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungeu1509@gmail.com)](mailto:jungeu1509@gmail.com)
