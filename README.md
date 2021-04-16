@@ -1,7 +1,7 @@
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeu1509&layout=compact&theme=material-palenight&exclude_repo=jungeu1509.github.io, jungeu1509)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeu1509&exclude_repo=linuxsetting,jungeu1509.github.io&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![C_Language](https://img.shields.io/badge/-C-yellow)](https://img.shields.io/badge/<LABEL>-C-yellow)
 [![C++_Language](https://img.shields.io/badge/-C++-green)](https://img.shields.io/badge/<LABEL>-C++-green)
