@@ -1,5 +1,13 @@
-### Hi there 👋
+<div align=center>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungeu1509&count_bg=%237E99E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jungeu1509.github.io/)](https://jungeu1509.github.io/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ)](https://www.youtube.com/channel/UCnhz0sEm4IDe2zdkDv-V4yQ) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungeu1509@gmail.com)](mailto:jungeu1509@gmail.com)
+
+
+</div>
+  
+  
 <!--
 **jungeu1509/jungeu1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
