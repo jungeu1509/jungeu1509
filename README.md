@@ -12,6 +12,7 @@
 ![C_Language](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black)
 ![C++_Language](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=black)
 ![Python_Language](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=black)
+![Java_Language](https://img.shields.io/badge/JAVA-FFFFFF?style=plastic&logo=Java&logoColor=black)
 ![Linux_Language](https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=Linux&logoColor=black)
 
 </div>
