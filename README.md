@@ -2,20 +2,14 @@
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeu1509&exclude_repo=linuxsetting,jungeu1509.github.io&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About%2Eme&logoColor=black&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
+
 </div>
 
-### 🌱 Languages & Skills
+### 😄 About Me 
 
 <div align=center>
   
-![C_Language](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black)
-![C++_Language](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=black)
-![Python_Language](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=black)
-![Java_Language](https://img.shields.io/badge/JAVA-FFFFFF?style=plastic&logo=Java&logoColor=black)
-![Linux_Language](https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=Linux&logoColor=black)
-
+[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About%2Eme&logoColor=black&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
 </div>
 
 ### 📫 Contact
