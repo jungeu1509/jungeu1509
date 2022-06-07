@@ -1,3 +1,12 @@
+# 😄 Kenneth Jung
+
+<div align=center>
+  
+[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About%2Eme&logoColor=black&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
+</div>
+
+## 🌱 Github State
+
 <div align=center>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungeu1509&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -5,14 +14,7 @@
 
 </div>
 
-### 😄 About Me 
-
-<div align=center>
-  
-[![About Me Badge](http://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About%2Eme&logoColor=black&link=https://jungeu1509.github.io/portfolio)](https://jungeu1509.github.io/portfolio) 
-</div>
-
-### 📫 Contact
+## 📫 Contact
 
 <div align=center>
 
